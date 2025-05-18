@@ -8,3 +8,11 @@ langchain-community
 pandas
 numpy
 python-dotenv
+
+
+fastapi
+uvicorn
+langchain
+sentence-transformers
+pinecone-client>=3.0.0
+python-dotenv
